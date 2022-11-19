@@ -4,7 +4,7 @@ YAMAHA製FM音源IC YM2203 に関する情報を集積していきたい
 
 # データシート記載内容邦訳
 
-[datasheet.pdf](./datasheet/pdf)より
+[datasheet.pdf](./datasheet.pdf)より
 
 ## 概要
 
